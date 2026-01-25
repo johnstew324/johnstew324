@@ -1,7 +1,7 @@
 # John Stewart
 
 **Currently:** MSc Financial Data Science @ UCD  
-**Previously:** First Class Honours (1.1) in Computer Science @ University of Galway
+**Completed:** First Class Honours (1.1) in Computer Science @ University of Galway
 
 **Focus:** Data engineering • Machine learning • Quantitative finance
 
