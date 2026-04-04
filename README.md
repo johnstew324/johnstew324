@@ -3,8 +3,6 @@
 **Currently:** MSc Financial Data Science @ UCD  
 **Completed:** First Class Honours (1.1) in Computer Science @ University of Galway
 
-**Focus:** Data engineering • Machine learning • Quantitative finance
-
 
 <!--
 **johnstew324/johnstew324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
