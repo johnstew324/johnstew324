@@ -3,9 +3,9 @@
 **Currently:** MSc Financial Data Science @ UCD  
 **Completed:** First Class Honours (1.1) in Computer Science @ University of Galway
 
-https://www.kaggle.com/johnstewartt
-https://www.boot.dev/u/johnstew
+[![Kaggle](https://img.shields.io/badge/Kaggle-johnstewartt-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/johnstewartt)
 
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-johnstew-6C2BD9?style=for-the-badge&logoColor=white)](https://www.boot.dev/u/johnstew)
 <!--
 **johnstew324/johnstew324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
